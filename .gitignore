@@ -16,6 +16,8 @@ media/
 # Static files (if collected outside of source control)
 staticfiles/
 
+
+
 # IDE-specific files
 .idea/
 .vscode/
