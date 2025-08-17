@@ -1,6 +1,7 @@
 # Virtual environment
 env/
 myenv/
+langchain_env/
 
 # Python bytecode
 *.pyc
