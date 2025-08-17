@@ -1,0 +1,54 @@
+version: "3.1"
+
+intents:
+  - greet
+  - goodbye
+  - ask_working_hours
+  - ask_leave_policy
+  - ask_probation_policy
+  - ask_resignation_policy
+  - ask_salary_policy
+  - ask_remote_work_policy
+  - ask_hajj_leave
+  - ask_health_insurance
+  - ask_iqama_renewal
+
+responses:
+  utter_greet:
+    - text: "Assalamu Alaikum 👋 How can I help you with company policies?"
+
+  utter_goodbye:
+    - text: "Goodbye! Have a great day."
+
+  utter_ask_working_hours:
+    - text: "In Saudi Arabia, standard working hours are 8 hours/day, 48 hours/week (reduced to 36 hours during Ramadan)."
+
+  utter_ask_leave_policy:
+    - text: "Employees are entitled to 21 days of annual leave (increasing to 30 days after 5 years of service) + sick leaves as per Saudi labor law."
+
+  utter_ask_probation_policy:
+    - text: "The probation period is up to 90 days (extendable to 180 with employee consent). Either party can terminate without compensation."
+
+  utter_ask_resignation_policy:
+    - text: "Employees must give 30 days' notice for monthly contracts or 15 days for daily/weekly contracts. Resignation during probation is possible with notice."
+
+  utter_ask_salary_policy:
+    - text: "Salaries must be paid monthly. Overtime is 150% of hourly wage. End of service benefits are calculated as half-month salary per year for first 5 years, and full-month salary per year thereafter."
+
+  utter_ask_remote_work_policy:
+    - text: "Remote work depends on company policy. Saudi Labor Law does not mandate remote work, but many companies allow hybrid models."
+
+  utter_ask_hajj_leave:
+    - text: "Employees are entitled to 10 days of paid leave once in their lifetime for Hajj, provided they have completed 2 years of service."
+
+  utter_ask_health_insurance:
+    - text: "All employers in Saudi Arabia must provide health insurance for employees and their dependents under CCHI regulations."
+
+  utter_ask_iqama_renewal:
+    - text: "Iqama renewal is the employer's responsibility. Fees are usually covered by the company, including medical and work permit charges."
+
+  utter_ask_sick_leave:
+    - text: "Can you please provide details about your sick leave request?"
+
+actions:
+  - action_llm_fallback

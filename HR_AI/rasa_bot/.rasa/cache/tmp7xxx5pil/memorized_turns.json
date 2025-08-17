@@ -1,0 +1,19 @@
+{
+  "lookup": {
+    "eJyLrq6NBQAEOAGx": "action_listen",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3BChdnB1flpicCFZUkJ+TmVxZWxsLAJR/IVA=": "utter_ask_vacation_policy",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3BChdnB1flpicCFZUkJ+TmVxZS8DE0pKS1KJ4bBqJMz0WAIK1Rfg=": "action_listen",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3BChdnB1fnJmcHZ+TmliWWlsbCwDyKR8i": "utter_ask_sick_leave",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3BChdnB1fnJmcHZ+TmliWWkvAsNKSktSieDQ9BM2MBQB3Ez9u": "action_listen",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3BChdnB2fmpcSn58WD5Qoy0xOra2NBQByKSDH": "utter_ask_end_of_service",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3BChdnB2fmpcSn58WD5Qoy0xOrSVgYGlJSWpRPBZ9RJkdCwCb/0Rd": "action_listen",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3BChdnB2fkZiVFZ+TmliWWlsbCwDxfR8V": "utter_ask_hajj_leave",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3BChdnB2fkZiVFZ+TmliWWkvAsNKSktSieDQ9BM2MBQBvKz9H": "action_listen",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3BChdnB1fUJSflAhWVZCfk5lcWVsbCwC3GiHJ": "utter_ask_probation_policy",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3BChdnB1fUJSflAhWVZCfk5lcWUvAyNKSktSieKw6iTQ/FgBlEEdj": "action_listen",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3BChdnB1flJqbX5IaX55flF1bGwsAEyUfug==": "utter_ask_remote_work",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3BChdnB1flJqbX5IaX55flF1LwLTSkpLUonh0TYRNjQUAVSxBNg==": "action_listen",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3BChdnB2fl1+SmZwaX5BalJmfUlsbCwBSqSBw": "utter_ask_notice_period",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3BChdnB2fl1+SmZwaX5BalJmfUkvAvNKSktSieExtxJgcCwDZa0NY": "action_listen"
+  }
+}

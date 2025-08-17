@@ -1,0 +1,68 @@
+version: "3.1"
+nlu:
+- intent: greet
+  examples: |
+    - Hi
+    - Hello
+    - Assalamu Alaikum
+    - Salam
+
+- intent: goodbye
+  examples: |
+    - Bye
+    - Goodbye
+    - See you later
+
+- intent: ask_working_hours
+  examples: |
+    - What are the official working hours?
+    - Tell me company timings
+    - When do employees start and finish work?
+
+- intent: ask_leave_policy
+  examples: |
+    - What is the leave policy in Saudi Arabia?
+    - How many annual leaves are allowed?
+    - Tell me about sick leave policy
+
+- intent: ask_probation_policy
+  examples: |
+    - How long is the probation period?
+    - What happens during probation?
+    - Tell me about probation policy
+
+- intent: ask_resignation_policy
+  examples: |
+    - How much notice do I need to give before resigning?
+    - What is the resignation procedure?
+    - Can I resign during probation?
+
+- intent: ask_salary_policy
+  examples: |
+    - When is salary paid?
+    - Tell me about overtime rules
+    - How is end of service benefit calculated?
+
+- intent: ask_remote_work_policy
+  examples: |
+    - Can we work from home?
+    - Is remote work allowed in Saudi companies?
+    - What are the rules for hybrid work?
+
+- intent: ask_hajj_leave
+  examples: |
+    - Am I entitled to Hajj leave?
+    - How many days for Hajj leave?
+    - Tell me about Hajj leave policy
+
+- intent: ask_health_insurance
+  examples: |
+    - Do companies provide health insurance?
+    - Tell me about medical benefits
+    - What insurance coverage is mandatory in Saudi?
+
+- intent: ask_iqama_renewal
+  examples: |
+    - How does the company handle iqama renewal?
+    - Who pays for iqama renewal fees?
+    - Tell me about residency permit renewal

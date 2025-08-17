@@ -1,0 +1,59 @@
+{
+  "type": "IntentMaxHistoryTrackerFeaturizer",
+  "state_featurizer": {
+    "action_texts": [],
+    "entity_tag_specs": [],
+    "feature_states": {
+      "intent": {
+        "ask_hajj_leave": 0,
+        "ask_health_insurance": 1,
+        "ask_iqama_renewal": 2,
+        "ask_leave_policy": 3,
+        "ask_probation_policy": 4,
+        "ask_remote_work_policy": 5,
+        "ask_resignation_policy": 6,
+        "ask_salary_policy": 7,
+        "ask_working_hours": 8,
+        "back": 9,
+        "goodbye": 10,
+        "greet": 11,
+        "nlu_fallback": 12,
+        "out_of_scope": 13,
+        "restart": 14,
+        "session_start": 15
+      },
+      "action_name": {
+        "action_listen": 0,
+        "action_restart": 1,
+        "action_session_start": 2,
+        "action_default_fallback": 3,
+        "action_deactivate_loop": 4,
+        "action_revert_fallback_events": 5,
+        "action_default_ask_affirmation": 6,
+        "action_default_ask_rephrase": 7,
+        "action_two_stage_fallback": 8,
+        "action_unlikely_intent": 9,
+        "action_back": 10,
+        "...": 11,
+        "action_extract_slots": 12,
+        "utter_ask_hajj_leave": 13,
+        "utter_ask_health_insurance": 14,
+        "utter_ask_iqama_renewal": 15,
+        "utter_ask_leave_policy": 16,
+        "utter_ask_probation_policy": 17,
+        "utter_ask_remote_work_policy": 18,
+        "utter_ask_resignation_policy": 19,
+        "utter_ask_salary_policy": 20,
+        "utter_ask_sick_leave": 21,
+        "utter_ask_working_hours": 22,
+        "utter_goodbye": 23,
+        "utter_greet": 24
+      },
+      "entities": {},
+      "slots": {},
+      "active_loop": {}
+    }
+  },
+  "remove_duplicates": true,
+  "max_history": 5
+}

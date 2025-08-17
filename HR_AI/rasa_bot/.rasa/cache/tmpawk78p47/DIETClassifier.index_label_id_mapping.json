@@ -1,0 +1,11 @@
+{
+  "0": "ask_end_of_service",
+  "1": "ask_hajj_leave",
+  "2": "ask_notice_period",
+  "3": "ask_probation_policy",
+  "4": "ask_remote_work",
+  "5": "ask_sick_leave",
+  "6": "ask_vacation_policy",
+  "7": "goodbye",
+  "8": "greet"
+}

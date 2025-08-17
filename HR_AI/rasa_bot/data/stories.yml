@@ -1,0 +1,31 @@
+version: "3.1"
+stories:
+- story: greet and ask policy
+  steps:
+    - intent: greet
+    - action: utter_greet
+
+- story: ask working hours
+  steps:
+    - intent: ask_working_hours
+    - action: utter_ask_working_hours
+
+- story: ask leave policy
+  steps:
+    - intent: ask_leave_policy
+    - action: utter_ask_leave_policy
+
+- story: ask resignation
+  steps:
+    - intent: ask_resignation_policy
+    - action: utter_ask_resignation_policy
+
+- story: ask hajj leave
+  steps:
+    - intent: ask_hajj_leave
+    - action: utter_ask_hajj_leave
+
+- story: ask iqama renewal
+  steps:
+    - intent: ask_iqama_renewal
+    - action: utter_ask_iqama_renewal

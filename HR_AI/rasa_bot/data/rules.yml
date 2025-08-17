@@ -1,0 +1,25 @@
+version: "3.1"
+
+rules:
+- rule: greet rule
+  steps:
+  - intent: greet
+  - action: utter_greet
+
+- rule: goodbye rule
+  steps:
+  - intent: goodbye
+  - action: utter_goodbye
+
+- rule: sick leave rule
+  steps:
+  - intent: ask_sick_leave
+  - action: utter_ask_sick_leave
+
+
+# ACTION
+
+- rule: Activate LLM fallback
+  steps:
+  - intent: nlu_fallback
+  - action: action_llm_fallback
